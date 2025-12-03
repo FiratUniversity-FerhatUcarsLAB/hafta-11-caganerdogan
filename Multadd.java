@@ -37,12 +37,4 @@ public class Multadd {
     }
 }
 
--------
 
-    Kodun çalıştırılmasıyla elde edilecek çıktı:
-
-a) multadd(1.0, 2.0, 3.0) sonucu (1*2 + 3): 5.0
-b) sin(pi/4) + cos(pi/4) / 2 sonucu: 1.0606601717798212
-c) log(10) + log(20) sonucu (ln(10) + ln(20)): 5.298317366548035
-expSum(5.0) sonucu: 0.03389025217462065
-    
